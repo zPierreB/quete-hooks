@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The link of netlify site upload : https://tender-pasteur-9cdc60.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
